@@ -86,13 +86,6 @@ header .header--right{
 	position: absolute;
 	top: 0; bottom: 0; left: 0; right: 0;
 }
-/*
-div#ls-vidDiv {
-    -webkit-transition: all 1s; /* Safari
-    transition: all 1s;
-}
-*/
-
 
 .ls-8-18-wrapper {
 	width: 100%;
@@ -107,29 +100,10 @@ div#ls-vidDiv {
 }
 
 
-/*
-.ls-video {
-    width: 100%;
-    transition-timing-function: ease-in;
-}
-
-.ls-videoDiv {
-    -webkit-transition: all 2s;
-    transition: all 2s;
-}
-*/
 
 .ls-video-xl {
     width: 100%;
 }
-
-/*
-.ls-chat {
-    width: 100%;
-    -webkit-transition: all 1s;
-    transition: all 1s;
-}
-*/
 
 .ls-chat-xl {
     width: 100%;
